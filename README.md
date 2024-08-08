@@ -1,8 +1,3 @@
-Voici le fichier `README.md` inspiré du style demandé, adapté pour votre selfbot jBackup :
-
-```markdown
-# jBackup - Votre Selfbot Discord de Sauvegarde
-
 Bienvenue sur **jBackup**, votre selfbot Discord personnel dédié aux sauvegardes de serveur. Suivez les instructions ci-dessous pour configurer et exécuter le bot sur votre machine.
 
 ## Prérequis
