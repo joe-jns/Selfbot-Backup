@@ -1,0 +1,1023 @@
+{
+    "name": "FUJI ⛩",
+    "id": 1236056051078664223,
+    "roles": [
+        {
+            "name": "@everyone",
+            "permissions": 1659066446630465,
+            "position": 0,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "BDG",
+            "permissions": 8589934592,
+            "position": 3,
+            "color": 16093189,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "Koya",
+            "permissions": 573391018388727,
+            "position": 4,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "KZ",
+            "permissions": 0,
+            "position": 5,
+            "color": 10038562,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "Akinator",
+            "permissions": 563036121295944,
+            "position": 6,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "GiveawayBot",
+            "permissions": 347200,
+            "position": 7,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "ProBot ✨",
+            "permissions": 2080374975,
+            "position": 8,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "Double Counter",
+            "permissions": 8,
+            "position": 9,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "InviteLogger",
+            "permissions": 1342500081,
+            "position": 10,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "⏳-𝐩𝐚𝐫𝐭𝐞𝐧𝐚𝐫𝐢𝐚𝐭",
+            "permissions": 0,
+            "position": 11,
+            "color": 15158332,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🎁-𝐠𝐢𝐯𝐞𝐚𝐰𝐚𝐲",
+            "permissions": 0,
+            "position": 12,
+            "color": 12784128,
+            "hoist": false,
+            "mentionable": true
+        },
+        {
+            "name": "🎶-𝐭𝐢𝐤𝐭𝐨𝐤",
+            "permissions": 0,
+            "position": 13,
+            "color": 395640,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "SnipeBot",
+            "permissions": 412317248576,
+            "position": 14,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "LunaBot 🌙",
+            "permissions": 37088600,
+            "position": 15,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "𝐦𝐢𝐧𝐞𝐮𝐫",
+            "permissions": 0,
+            "position": 16,
+            "color": 16777215,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "𝐦𝐚𝐣𝐞𝐮𝐫",
+            "permissions": 0,
+            "position": 17,
+            "color": 16777215,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "DISBOARD.org",
+            "permissions": 19473,
+            "position": 18,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "Statbot",
+            "permissions": 275147508760,
+            "position": 19,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "𝐟𝐞𝐦𝐦𝐞",
+            "permissions": 0,
+            "position": 20,
+            "color": 16599787,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "𝐡𝐨𝐦𝐦𝐞",
+            "permissions": 0,
+            "position": 21,
+            "color": 2342631,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "𝐦𝐞𝐦𝐛𝐫𝐞",
+            "permissions": 1694216458980929,
+            "position": 22,
+            "color": 16777215,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": ".gg/fujifr",
+            "permissions": 1711911791349313,
+            "position": 23,
+            "color": 6291711,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "THE BOYS",
+            "permissions": 0,
+            "position": 24,
+            "color": 7419530,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "Kakato",
+            "permissions": 0,
+            "position": 25,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "Booster Fuji",
+            "permissions": 2222085119528513,
+            "position": 26,
+            "color": 16023551,
+            "hoist": true,
+            "mentionable": true
+        },
+        {
+            "name": "Community manager 📬",
+            "permissions": 1711911955066689,
+            "position": 27,
+            "color": 10066938,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "Gs/Ticket📤",
+            "permissions": 1711911791349313,
+            "position": 28,
+            "color": 13311,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "kenzo",
+            "permissions": 0,
+            "position": 29,
+            "color": 329223,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "Starr Fuji",
+            "permissions": 1720707884371521,
+            "position": 30,
+            "color": 49151,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "Staff Fuji",
+            "permissions": 1808668948815681,
+            "position": 31,
+            "color": 10181046,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "Fuji Eclaireur",
+            "permissions": 1720707884371521,
+            "position": 32,
+            "color": 2003199,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "Fuji Avanturier",
+            "permissions": 1720707884371521,
+            "position": 33,
+            "color": 4620980,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "Fuji-modo-v2",
+            "permissions": 2091243466514241,
+            "position": 34,
+            "color": 1507467,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "Fuji Gardien",
+            "permissions": 1720707884371521,
+            "position": 35,
+            "color": 52945,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "Fuji Protecteur",
+            "permissions": 1720707884371521,
+            "position": 36,
+            "color": 2142890,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "Fuji-modo",
+            "permissions": 2091261720649537,
+            "position": 37,
+            "color": 0,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "Fuji Chevalier",
+            "permissions": 1720707884371521,
+            "position": 38,
+            "color": 64154,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "Fuji champion",
+            "permissions": 1720707884371521,
+            "position": 39,
+            "color": 3978097,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "Fuji Heros",
+            "permissions": 1720707884371521,
+            "position": 40,
+            "color": 3050327,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "Fuji-Sensei",
+            "permissions": 2091261720649537,
+            "position": 41,
+            "color": 65340,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "Fuji Épique",
+            "permissions": 1720707884371521,
+            "position": 42,
+            "color": 16726329,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "Fuji légendaire",
+            "permissions": 1720707884371521,
+            "position": 43,
+            "color": 16711763,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "Fuji Éternel",
+            "permissions": 2091261720788929,
+            "position": 44,
+            "color": 16711680,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "Fuji Suprême",
+            "permissions": 2003310185807863,
+            "position": 45,
+            "color": 791328,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "Soulbot SafeShield",
+            "permissions": 8,
+            "position": 46,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "Enzo",
+            "permissions": 2146958847,
+            "position": 47,
+            "color": 16777215,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "DraftBot",
+            "permissions": 2108863302074367,
+            "position": 48,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "๖̶ζBP Protect",
+            "permissions": 8,
+            "position": 49,
+            "color": 2123412,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "mirage",
+            "permissions": 1024,
+            "position": 50,
+            "color": 131329,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "𝐜𝐫𝐞𝐚𝐭𝐨𝐫 👑",
+            "permissions": 2108863302074367,
+            "position": 51,
+            "color": 789516,
+            "hoist": true,
+            "mentionable": false
+        }
+    ],
+    "channels": [
+        {
+            "name": "🖥・commandes-staff",
+            "id": 1263106795367301171,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "Categorie staff"
+        },
+        {
+            "name": "🪁・voc 4",
+            "id": 1261365734978752603,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "vocaux"
+        },
+        {
+            "name": "⏰・notifications",
+            "id": 1267290841072930858,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": null
+        },
+        {
+            "name": "🛫・arrivée",
+            "id": 1239226335105122404,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "informations"
+        },
+        {
+            "name": "👾・voc 8",
+            "id": 1261366302761680986,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "vocaux"
+        },
+        {
+            "name": "📄・règles",
+            "id": 1239250478500679741,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "informations"
+        },
+        {
+            "name": "🎇・annonces-events",
+            "id": 1266479522325467147,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "🎡 ➜ Espace evenements"
+        },
+        {
+            "name": "📊 ➜ Statistiques",
+            "id": 1262209893298081832,
+            "type": "category",
+            "channels": [
+                1266560537630871653,
+                1262209899069308990,
+                1262209906145099786,
+                1262209908749762590
+            ]
+        },
+        {
+            "name": "💾・logs-raid",
+            "id": 1263305534958993419,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "logs du serveur"
+        },
+        {
+            "name": "🫐・voc 6",
+            "id": 1268025727941476374,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "vocaux"
+        },
+        {
+            "name": "⏳・partenariat",
+            "id": 1263895867392397474,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "autres"
+        },
+        {
+            "name": "🦕・voc 2",
+            "id": 1261365571539177632,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "vocaux"
+        },
+        {
+            "name": "🔎・preuves",
+            "id": 1261399672501833759,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "🎁 ➜ Espace giveaways"
+        },
+        {
+            "name": "🎶・tiktok",
+            "id": 1261376066543423611,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "🌍 ➜ Communautaire"
+        },
+        {
+            "name": "💈・logs-salon",
+            "id": 1261842087943471145,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "logs du serveur"
+        },
+        {
+            "name": "ticket-shinji",
+            "id": 1267862659299020851,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "Categorie recrutement"
+        },
+        {
+            "name": "ticket-bruce-lee",
+            "id": 1268878052209987676,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "Categorie recrutement"
+        },
+        {
+            "name": "vocaux",
+            "id": 1261364767889686588,
+            "type": "category",
+            "channels": [
+                1268001923118792726,
+                1261365459115053068,
+                1261365571539177632,
+                1261365651335811133,
+                1261365734978752603,
+                1261365816822075392,
+                1268025727941476374,
+                1261366257207476406,
+                1261366302761680986,
+                1263069889829273632
+            ]
+        },
+        {
+            "name": "🎟・ticket",
+            "id": 1239218999242526860,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "📬 ➜ Support"
+        },
+        {
+            "name": "Ticket partenariat",
+            "id": 1261905344817397822,
+            "type": "category",
+            "channels": []
+        },
+        {
+            "name": "💓・loveroom",
+            "id": 1268363940618829856,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "🌍 ➜ Communautaire"
+        },
+        {
+            "name": "👤・roles",
+            "id": 1261329926695686154,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "informations"
+        },
+        {
+            "name": "🔇・no-micro",
+            "id": 1268001923118792726,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "vocaux"
+        },
+        {
+            "name": "informations",
+            "id": 1236056725233340447,
+            "type": "category",
+            "channels": [
+                1239226335105122404,
+                1239226493096431740,
+                1239250478500679741,
+                1260593687461757111,
+                1239218169613389834,
+                1263900122375258285,
+                1261329926695686154
+            ]
+        },
+        {
+            "name": "ticket-rayane",
+            "id": 1268678724136734721,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "Categorie recrutement"
+        },
+        {
+            "name": "🗞・pub",
+            "id": 1239966640305737790,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "autres"
+        },
+        {
+            "name": "🥘・cuisine",
+            "id": 1261360022638690344,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "🌍 ➜ Communautaire"
+        },
+        {
+            "name": "📸・média",
+            "id": 1261349348348924006,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "🌍 ➜ Communautaire"
+        },
+        {
+            "name": "📑・fiche",
+            "id": 1262212671994990723,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "Categorie staff"
+        },
+        {
+            "name": "🎡 ➜ Espace evenements",
+            "id": 1266478623376806013,
+            "type": "category",
+            "channels": [
+                1266479522325467147,
+                1263196303660421272,
+                1265766376497221842
+            ]
+        },
+        {
+            "name": "📞・logs-vocal",
+            "id": 1261842278121472000,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "logs du serveur"
+        },
+        {
+            "name": "💻・logs-messages",
+            "id": 1261840097788039282,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "logs du serveur"
+        },
+        {
+            "name": "⚡・système・de・rank",
+            "id": 1262436261726126222,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "Categorie staff"
+        },
+        {
+            "name": "Categorie owners",
+            "id": 1261905073475289150,
+            "type": "category",
+            "channels": []
+        },
+        {
+            "name": "🖼・pic-only",
+            "id": 1267304118024929312,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "🌍 ➜ Communautaire"
+        },
+        {
+            "name": "❓・idée",
+            "id": 1261653769796583526,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "🌍 ➜ Communautaire"
+        },
+        {
+            "name": "👑・voc de mirage",
+            "id": 1263069889829273632,
+            "type": "voice",
+            "bitrate": 384000,
+            "user_limit": 0,
+            "category": "vocaux"
+        },
+        {
+            "name": "🌍 ➜ Communautaire",
+            "id": 1239219583932432425,
+            "type": "category",
+            "channels": [
+                1265373382430425282,
+                1267304118024929312,
+                1261349348348924006,
+                1261362743265464341,
+                1268363940618829856,
+                1261363647469453432,
+                1261360022638690344,
+                1261376066543423611,
+                1261653769796583526,
+                1239250478500679742
+            ]
+        },
+        {
+            "name": "📝・condition",
+            "id": 1261666318785187921,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "autres"
+        },
+        {
+            "name": "🛫・départ",
+            "id": 1239226493096431740,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "informations"
+        },
+        {
+            "name": "📤・invitations",
+            "id": 1263900122375258285,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "informations"
+        },
+        {
+            "name": "🔌・commandes",
+            "id": 1261362743265464341,
+            "type": "text",
+            "topic": "Salon des commandes.",
+            "nsfw": false,
+            "category": "🌍 ➜ Communautaire"
+        },
+        {
+            "name": "logs du serveur",
+            "id": 1261839604286357546,
+            "type": "category",
+            "channels": [
+                1261840097788039282,
+                1261841136247373846,
+                1261842087943471145,
+                1261842278121472000,
+                1261842578152620177,
+                1261842820713418792,
+                1263305534958993419
+            ]
+        },
+        {
+            "name": "💎・Boost : 21",
+            "id": 1262209906145099786,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "📊 ➜ Statistiques"
+        },
+        {
+            "name": "🌷・modos",
+            "id": 1239250478500679742,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "🌍 ➜ Communautaire"
+        },
+        {
+            "name": "🎪・chat-event",
+            "id": 1263196303660421272,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "🎡 ➜ Espace evenements"
+        },
+        {
+            "name": "🌍 • Membres : 213",
+            "id": 1266560537630871653,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "📊 ➜ Statistiques"
+        },
+        {
+            "name": "⚜・chat-staff",
+            "id": 1261845198225543178,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "Categorie staff"
+        },
+        {
+            "name": "☂・voc 7",
+            "id": 1261366257207476406,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "vocaux"
+        },
+        {
+            "name": "🎟・logs-ticket",
+            "id": 1261842820713418792,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "logs du serveur"
+        },
+        {
+            "name": "🔰・logs-moderation",
+            "id": 1261841136247373846,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "logs du serveur"
+        },
+        {
+            "name": "🎉・giveaways",
+            "id": 1261399378581651597,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "🎁 ➜ Espace giveaways"
+        },
+        {
+            "name": "🏆・masterclass",
+            "id": 1267291151766126593,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": null
+        },
+        {
+            "name": "Ticket Gestion-abus",
+            "id": 1261905257915748468,
+            "type": "category",
+            "channels": []
+        },
+        {
+            "name": "☕・chat",
+            "id": 1265373382430425282,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "🌍 ➜ Communautaire"
+        },
+        {
+            "name": "autres",
+            "id": 1239966409266827305,
+            "type": "category",
+            "channels": [
+                1261666318785187921,
+                1239966640305737790,
+                1263895867392397474
+            ]
+        },
+        {
+            "name": "🎁 ➜ Espace giveaways",
+            "id": 1261398637900988548,
+            "type": "category",
+            "channels": [
+                1261399378581651597,
+                1261399672501833759
+            ]
+        },
+        {
+            "name": "🎊・animations",
+            "id": 1265766376497221842,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "🎡 ➜ Espace evenements"
+        },
+        {
+            "name": "🌟・boost",
+            "id": 1260593687461757111,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "informations"
+        },
+        {
+            "name": "Categorie staff",
+            "id": 1262189663498534932,
+            "type": "category",
+            "channels": [
+                1262190221454348308,
+                1263106795367301171,
+                1261845198225543178,
+                1262436261726126222,
+                1262212671994990723
+            ]
+        },
+        {
+            "name": "👥・logs-utilisateurs",
+            "id": 1261842578152620177,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "logs du serveur"
+        },
+        {
+            "name": "📬 ➜ Support",
+            "id": 1262035845502730351,
+            "type": "category",
+            "channels": [
+                1239218999242526860
+            ]
+        },
+        {
+            "name": "🦋・voc 5",
+            "id": 1261365816822075392,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "vocaux"
+        },
+        {
+            "name": "🪻・voc 3",
+            "id": 1261365651335811133,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "vocaux"
+        },
+        {
+            "name": "⛩・annonces-staff",
+            "id": 1262190221454348308,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "Categorie staff"
+        },
+        {
+            "name": "📢・annonces",
+            "id": 1239218169613389834,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "informations"
+        },
+        {
+            "name": "Categorie recrutement",
+            "id": 1261905165460705320,
+            "type": "category",
+            "channels": [
+                1267862659299020851,
+                1268678724136734721,
+                1268878052209987676,
+                1269061544247820329
+            ]
+        },
+        {
+            "name": "🕶・face-reveal",
+            "id": 1261363647469453432,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "🌍 ➜ Communautaire"
+        },
+        {
+            "name": "🏖・.gg/fujifr",
+            "id": 1262209908749762590,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "📊 ➜ Statistiques"
+        },
+        {
+            "name": "ticket-kz",
+            "id": 1269061544247820329,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "Categorie recrutement"
+        },
+        {
+            "name": "🌴・En ligne : 52",
+            "id": 1262209899069308990,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "📊 ➜ Statistiques"
+        },
+        {
+            "name": "🐬・voc 1",
+            "id": 1261365459115053068,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "vocaux"
+        }
+    ]
+}

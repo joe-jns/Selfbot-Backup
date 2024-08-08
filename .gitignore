@@ -1,0 +1,8 @@
+# Ignorer les fichiers de configuration sensibles
+.env
+
+# Ignorer les dossiers __pycache__
+__pycache__/
+
+# Ignorer les environnements virtuels
+venv/

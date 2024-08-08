@@ -1,0 +1,64 @@
+{
+    "name": "Faisse's server",
+    "id": 1244310107744108696,
+    "roles": [
+        {
+            "name": "@everyone",
+            "permissions": 2248473465835073,
+            "position": 0,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "FlashBorn",
+            "permissions": 8,
+            "position": 1,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "AI Image Generator",
+            "permissions": 274877959232,
+            "position": 1,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        }
+    ],
+    "channels": [
+        {
+            "name": "Text Channels",
+            "id": 1244310107744108697,
+            "type": "category",
+            "channels": [
+                1260967331857961053
+            ]
+        },
+        {
+            "name": "Voice Channels",
+            "id": 1244310107744108698,
+            "type": "category",
+            "channels": [
+                1244310107744108700
+            ]
+        },
+        {
+            "name": "General",
+            "id": 1244310107744108700,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "Voice Channels"
+        },
+        {
+            "name": "sd",
+            "id": 1260967331857961053,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "Text Channels"
+        }
+    ]
+}

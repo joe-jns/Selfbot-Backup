@@ -1,0 +1,1167 @@
+{
+    "name": "FlashBorn - Public",
+    "id": 1185356165203365908,
+    "roles": [
+        {
+            "name": "@everyone",
+            "permissions": 2221982107422273,
+            "position": 0,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "Tebex",
+            "permissions": 2617379847,
+            "position": 1,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "FlashBorn",
+            "permissions": 8,
+            "position": 2,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "〃Lead Faction",
+            "permissions": 0,
+            "position": 3,
+            "color": 16777215,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "〃Lead Entreprise",
+            "permissions": 0,
+            "position": 4,
+            "color": 38911,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "〃Citoyens",
+            "permissions": 110915487129153,
+            "position": 5,
+            "color": 15501448,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "〃Streameur",
+            "permissions": 0,
+            "position": 6,
+            "color": 7377006,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "〃Flash'Booster",
+            "permissions": 2221980228308561,
+            "position": 7,
+            "color": 16023551,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "〃Soutiens",
+            "permissions": 0,
+            "position": 8,
+            "color": 8604311,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "〃Contributeur",
+            "permissions": 0,
+            "position": 9,
+            "color": 10202879,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "〃Friends",
+            "permissions": 0,
+            "position": 10,
+            "color": 9807270,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "〃Pass Staff",
+            "permissions": 0,
+            "position": 11,
+            "color": 9108654,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "〃Graphiste",
+            "permissions": 0,
+            "position": 12,
+            "color": 14676364,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "〃Team FlashBorn",
+            "permissions": 275111856704,
+            "position": 13,
+            "color": 15743803,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "〃Community Manager",
+            "permissions": 0,
+            "position": 14,
+            "color": 11491656,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "・Responsable Autre",
+            "permissions": 0,
+            "position": 15,
+            "color": 15493760,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "・Responsable EMS",
+            "permissions": 0,
+            "position": 16,
+            "color": 5479935,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "・Responsable Police",
+            "permissions": 0,
+            "position": 17,
+            "color": 14224,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "・Responsable Justice",
+            "permissions": 0,
+            "position": 18,
+            "color": 16318257,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "・Responsable Utilitaire",
+            "permissions": 0,
+            "position": 19,
+            "color": 10486274,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "・Responsable Divertissement",
+            "permissions": 0,
+            "position": 20,
+            "color": 9502868,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "・Responsable Alimentaire",
+            "permissions": 0,
+            "position": 21,
+            "color": 13407744,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "Pôle Légal",
+            "permissions": 0,
+            "position": 22,
+            "color": 6277887,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "Pôle Illégal",
+            "permissions": 0,
+            "position": 23,
+            "color": 8916480,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "〃Support",
+            "permissions": 0,
+            "position": 24,
+            "color": 16756912,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "〃Helpeur",
+            "permissions": 0,
+            "position": 25,
+            "color": 16738528,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "〃Modérateur",
+            "permissions": 0,
+            "position": 26,
+            "color": 6876156,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "〃Administrateur",
+            "permissions": 0,
+            "position": 27,
+            "color": 15990683,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "〃Gérant Staff",
+            "permissions": 0,
+            "position": 28,
+            "color": 16748405,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "〃Responsable",
+            "permissions": 1099914420224,
+            "position": 29,
+            "color": 4691580,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "〃Technicien Réseau",
+            "permissions": 0,
+            "position": 30,
+            "color": 16777215,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "〃Fondateur",
+            "permissions": 8,
+            "position": 31,
+            "color": 6049872,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "@",
+            "permissions": 1721826619162623,
+            "position": 32,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "〃FlashBorn",
+            "permissions": 0,
+            "position": 33,
+            "color": 16777215,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "Support",
+            "permissions": 8,
+            "position": 34,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "-",
+            "permissions": 281475006070920,
+            "position": 35,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        }
+    ],
+    "channels": [
+        {
+            "name": "📢┃annonce",
+            "id": 1268748961372704829,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "🔑 INFORMATION FLASHBORN"
+        },
+        {
+            "name": "📰┃flashnews",
+            "id": 1268789102724251742,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "🎦 Journal"
+        },
+        {
+            "name": "🎥┃stream",
+            "id": 1265866573776814201,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "📚 Salons textuels"
+        },
+        {
+            "name": "👥┃projet-illégal",
+            "id": 1268788321052659783,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "📚 Salons textuels"
+        },
+        {
+            "name": "🪐┃Bureau Caché",
+            "id": 1268799798933454949,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "🆘 Support Staff"
+        },
+        {
+            "name": "📞┃Support #3",
+            "id": 1268792266852667463,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "🆘 Support Staff"
+        },
+        {
+            "name": "klonodb",
+            "id": 1270246186544140288,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "🌐 Ticket Questions"
+        },
+        {
+            "name": "🎉┃gouvernement-cayo",
+            "id": 1268789034549903431,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "🎦 Journal"
+        },
+        {
+            "name": "🔹┃avertissement",
+            "id": 1269057034729558148,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "📞 Administration"
+        },
+        {
+            "name": "🏢 Ticket Entreprise",
+            "id": 1269407521047580746,
+            "type": "category",
+            "channels": [
+                1270126588658323569
+            ]
+        },
+        {
+            "name": "🛬┃accueil",
+            "id": 1264939615870259210,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "📌 BIENVENUE"
+        },
+        {
+            "name": "📺┃publicité",
+            "id": 1268789729239765105,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "🎦 Journal"
+        },
+        {
+            "name": "📞┃Support #5",
+            "id": 1270393969389473855,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "🆘 Support Staff"
+        },
+        {
+            "name": "📁・moderation-logs",
+            "id": 1268760506462900285,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "Logs"
+        },
+        {
+            "name": "📁・roles-logs",
+            "id": 1268761292466950156,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "Logs"
+        },
+        {
+            "name": "📣┃annonce-haut-gradée",
+            "id": 1269913146257047626,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "🌏 Haut Gradé"
+        },
+        {
+            "name": "📁・raid-logs",
+            "id": 1268760509352509541,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "Logs"
+        },
+        {
+            "name": "📅┃recrutement-staff",
+            "id": 1268787853022728264,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "📚 Salons textuels"
+        },
+        {
+            "name": "🌏 Haut Gradé",
+            "id": 1269912501903032471,
+            "type": "category",
+            "channels": [
+                1269913146257047626,
+                1269913408917078089,
+                1269912614595596401,
+                1269912745206354022
+            ]
+        },
+        {
+            "name": "🌐 Ticket Questions",
+            "id": 1269070683628109825,
+            "type": "category",
+            "channels": [
+                1270246186544140288,
+                1270310105321050152
+            ]
+        },
+        {
+            "name": "📞 Administration",
+            "id": 1269056809956806669,
+            "type": "category",
+            "channels": [
+                1269056908904370350,
+                1269056970405576746,
+                1269057003029008499,
+                1269057034729558148,
+                1269057066132050021,
+                1269057102215778405,
+                1269057137330622464,
+                1269057200769335297,
+                1269716567063531844,
+                1269057226467704852,
+                1269914459166478386,
+                1270357497684689007,
+                1270108077001281557,
+                1270108199663571069,
+                1270108215178166352,
+                1270108237492129842
+            ]
+        },
+        {
+            "name": "azerty50",
+            "id": 1270126588658323569,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "🏢 Ticket Entreprise"
+        },
+        {
+            "name": "📞┃Support #9",
+            "id": 1270394290861903914,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "🆘 Support Staff"
+        },
+        {
+            "name": "🔑 INFORMATION FLASHBORN",
+            "id": 1264939771747369002,
+            "type": "category",
+            "channels": [
+                1268748961372704829,
+                1265861162369814579,
+                1265862457159843880,
+                1265862200925487305,
+                1265861933060329504,
+                1264939942774313074,
+                1268787466458890342,
+                1269655340375609384
+            ]
+        },
+        {
+            "name": "🆘 Support Staff",
+            "id": 1264941017648599202,
+            "type": "category",
+            "channels": [
+                1265867226016252017,
+                1268789909024673822,
+                1265867309281579018,
+                1268791137737506916,
+                1268792046316163134,
+                1268792209159880754,
+                1268792266852667463,
+                1268792320304877588,
+                1270393969389473855,
+                1270393981053964421,
+                1270394069759037603,
+                1270394094492848190,
+                1270394290861903914,
+                1270394329361285161,
+                1268792381038137395,
+                1268792478371151934,
+                1268792431177105438,
+                1268792546818261088,
+                1268792673918255145,
+                1268792752104149045,
+                1268792818726473852,
+                1268799798933454949
+            ]
+        },
+        {
+            "name": "📁・logs-tebex",
+            "id": 1268761417469661184,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "Logs"
+        },
+        {
+            "name": "👥┃reprise-madrazo",
+            "id": 1269164002055815231,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "👥 Ticket Faction"
+        },
+        {
+            "name": "🔍┃commandes-staff",
+            "id": 1269057102215778405,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "📞 Administration"
+        },
+        {
+            "name": "💀┃starter-illégal",
+            "id": 1269912614595596401,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "🌏 Haut Gradé"
+        },
+        {
+            "name": "📚┃bugs-reports",
+            "id": 1265867226016252017,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "🆘 Support Staff"
+        },
+        {
+            "name": "🫧┃Staff #3",
+            "id": 1270108215178166352,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "📞 Administration"
+        },
+        {
+            "name": "⛔┃funny-staff",
+            "id": 1269057226467704852,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "📞 Administration"
+        },
+        {
+            "name": "📣┃disponibilités",
+            "id": 1269057200769335297,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "📞 Administration"
+        },
+        {
+            "name": "📁・boost-logs",
+            "id": 1268760508979478620,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "Logs"
+        },
+        {
+            "name": "📅┃touches-staff",
+            "id": 1269057066132050021,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "📞 Administration"
+        },
+        {
+            "name": "📁・tickets-logs",
+            "id": 1268761375476289627,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "Logs"
+        },
+        {
+            "name": "🧩┃nos-reseaux",
+            "id": 1269655340375609384,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "🔑 INFORMATION FLASHBORN"
+        },
+        {
+            "name": "📁・voice-logs",
+            "id": 1268760507301494834,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "Logs"
+        },
+        {
+            "name": "Logs",
+            "id": 1268760505384702014,
+            "type": "category",
+            "channels": [
+                1268760506462900285,
+                1268760507301494834,
+                1268760507867992228,
+                1268760508979478620,
+                1268760509352509541,
+                1268761292466950156,
+                1268761375476289627,
+                1268761417469661184
+            ]
+        },
+        {
+            "name": "🔨┃id-à-ban",
+            "id": 1269716567063531844,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "📞 Administration"
+        },
+        {
+            "name": "🐤┃bridy",
+            "id": 1269689454633685013,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "🎦 Journal"
+        },
+        {
+            "name": "📚┃évenementiel",
+            "id": 1270023532990169273,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "📚 Salons textuels"
+        },
+        {
+            "name": "📇┃réglement",
+            "id": 1269056970405576746,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "📞 Administration"
+        },
+        {
+            "name": "💻┃spoil",
+            "id": 1265862200925487305,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "🔑 INFORMATION FLASHBORN"
+        },
+        {
+            "name": "📚 Salons textuels",
+            "id": 1264940248576823327,
+            "type": "category",
+            "channels": [
+                1268754437577506907,
+                1268787853022728264,
+                1268788411754610740,
+                1268788321052659783,
+                1270023532990169273,
+                1265862696461668493,
+                1265846930504941693,
+                1263869960879476819,
+                1265866573776814201,
+                1265867013562040451
+            ]
+        },
+        {
+            "name": "config",
+            "id": 1264941038808858654,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": null
+        },
+        {
+            "name": "🛒 Ticket Boutique",
+            "id": 1269070841048596552,
+            "type": "category",
+            "channels": []
+        },
+        {
+            "name": "🎬┃media",
+            "id": 1265846930504941693,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "📚 Salons textuels"
+        },
+        {
+            "name": "💫┃starter-légal",
+            "id": 1269912745206354022,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "🌏 Haut Gradé"
+        },
+        {
+            "name": "📩┃tickets-support",
+            "id": 1268789909024673822,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "🆘 Support Staff"
+        },
+        {
+            "name": "🎓┃Réunion Staff",
+            "id": 1268792546818261088,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "🆘 Support Staff"
+        },
+        {
+            "name": "📜┃reglement",
+            "id": 1268748853277102091,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "📌 BIENVENUE"
+        },
+        {
+            "name": "🫧┃Staff #1",
+            "id": 1270108077001281557,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "📞 Administration"
+        },
+        {
+            "name": "📢┃annonce-staff",
+            "id": 1269056908904370350,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "📞 Administration"
+        },
+        {
+            "name": "🚑┃annonce-sams",
+            "id": 1268789505595408424,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "🎦 Journal"
+        },
+        {
+            "name": "🔄 Ticket Remboursements",
+            "id": 1269070770823499786,
+            "type": "category",
+            "channels": []
+        },
+        {
+            "name": "💭┃chat-staff",
+            "id": 1269057137330622464,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "📞 Administration"
+        },
+        {
+            "name": "🔨┃Ne pas déranger",
+            "id": 1268792752104149045,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "🆘 Support Staff"
+        },
+        {
+            "name": "🔎 Ticket RC Staff",
+            "id": 1269071153423716392,
+            "type": "category",
+            "channels": []
+        },
+        {
+            "name": "📞┃Support #1",
+            "id": 1268792046316163134,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "🆘 Support Staff"
+        },
+        {
+            "name": "📊┃sondage",
+            "id": 1264939942774313074,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "🔑 INFORMATION FLASHBORN"
+        },
+        {
+            "name": "📞┃Support #10",
+            "id": 1270394329361285161,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "🆘 Support Staff"
+        },
+        {
+            "name": "🎦 Journal",
+            "id": 1268788920481611809,
+            "type": "category",
+            "channels": [
+                1268788997090709534,
+                1268789034549903431,
+                1269689141264646185,
+                1269689454633685013,
+                1268789067680579605,
+                1268789102724251742,
+                1268789133074104461,
+                1268789505595408424,
+                1268789729239765105
+            ]
+        },
+        {
+            "name": "att-gl-takumo",
+            "id": 1270310105321050152,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "🌐 Ticket Questions"
+        },
+        {
+            "name": "💿┃api-flashborn",
+            "id": 1269914459166478386,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "📞 Administration"
+        },
+        {
+            "name": "🚧┃Entretien Staff",
+            "id": 1268792478371151934,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "🆘 Support Staff"
+        },
+        {
+            "name": "🚀┃Entretien Illégal",
+            "id": 1268792431177105438,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "🆘 Support Staff"
+        },
+        {
+            "name": "💬┃chat-haut-gradée",
+            "id": 1269913408917078089,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "🌏 Haut Gradé"
+        },
+        {
+            "name": "📌 BIENVENUE",
+            "id": 1264938445659181219,
+            "type": "category",
+            "channels": [
+                1264939615870259210,
+                1268748853277102091
+            ]
+        },
+        {
+            "name": "📞┃Support #4",
+            "id": 1268792320304877588,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "🆘 Support Staff"
+        },
+        {
+            "name": "👑┃Fondation",
+            "id": 1268792818726473852,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "🆘 Support Staff"
+        },
+        {
+            "name": "🏢┃entreprise",
+            "id": 1268788411754610740,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "📚 Salons textuels"
+        },
+        {
+            "name": "🎓┃discord",
+            "id": 1268787466458890342,
+            "type": "text",
+            "topic": "",
+            "nsfw": false,
+            "category": "🔑 INFORMATION FLASHBORN"
+        },
+        {
+            "name": "📋┃patchnote",
+            "id": 1265862457159843880,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "🔑 INFORMATION FLASHBORN"
+        },
+        {
+            "name": "💭┃général",
+            "id": 1268754437577506907,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "📚 Salons textuels"
+        },
+        {
+            "name": "🔆┃blacklist-staff",
+            "id": 1270357497684689007,
+            "type": "text",
+            "topic": "",
+            "nsfw": false,
+            "category": "📞 Administration"
+        },
+        {
+            "name": "🫧┃Staff #2",
+            "id": 1270108199663571069,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "📞 Administration"
+        },
+        {
+            "name": "👥 Ticket Faction",
+            "id": 1269406686712692746,
+            "type": "category",
+            "channels": [
+                1269164002055815231,
+                1270148496430993428
+            ]
+        },
+        {
+            "name": "📞┃Support #7",
+            "id": 1270394069759037603,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "🆘 Support Staff"
+        },
+        {
+            "name": "reprise-vercetti",
+            "id": 1270148496430993428,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "👥 Ticket Faction"
+        },
+        {
+            "name": "🌟┃soutiens",
+            "id": 1265862696461668493,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "📚 Salons textuels"
+        },
+        {
+            "name": "📁・messages-logs",
+            "id": 1268760507867992228,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "Logs"
+        },
+        {
+            "name": "📞┃Support #2",
+            "id": 1268792209159880754,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "🆘 Support Staff"
+        },
+        {
+            "name": "📈┃server-status",
+            "id": 1265861162369814579,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "🔑 INFORMATION FLASHBORN"
+        },
+        {
+            "name": "📞┃Support #6",
+            "id": 1270393981053964421,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "🆘 Support Staff"
+        },
+        {
+            "name": "🌍┃gouvernement-sa",
+            "id": 1268788997090709534,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "🎦 Journal"
+        },
+        {
+            "name": "🫧┃Staff #4",
+            "id": 1270108237492129842,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "📞 Administration"
+        },
+        {
+            "name": "📜┃most-wanted",
+            "id": 1268789067680579605,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "🎦 Journal"
+        },
+        {
+            "name": "📸┃instapic",
+            "id": 1269689141264646185,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "🎦 Journal"
+        },
+        {
+            "name": "⛔ Ticket Unban/Jail",
+            "id": 1269070979725000736,
+            "type": "category",
+            "channels": []
+        },
+        {
+            "name": "🐌┃Développement",
+            "id": 1268792673918255145,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "🆘 Support Staff"
+        },
+        {
+            "name": "🚓┃annonce-sasp",
+            "id": 1268789133074104461,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "🎦 Journal"
+        },
+        {
+            "name": "🔊┃Besoin d'aide",
+            "id": 1268791137737506916,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "🆘 Support Staff"
+        },
+        {
+            "name": "💎┃boost",
+            "id": 1263869960879476819,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "📚 Salons textuels"
+        },
+        {
+            "name": "💗 Ticket Évenementiel",
+            "id": 1270026109483880458,
+            "type": "category",
+            "channels": []
+        },
+        {
+            "name": "📰┃dossiers",
+            "id": 1269057003029008499,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "📞 Administration"
+        },
+        {
+            "name": "📖┃convocation",
+            "id": 1265867309281579018,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "🆘 Support Staff"
+        },
+        {
+            "name": "🛒┃boutique",
+            "id": 1265861933060329504,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "🔑 INFORMATION FLASHBORN"
+        },
+        {
+            "name": "🔮┃Entretien Légal",
+            "id": 1268792381038137395,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "🆘 Support Staff"
+        },
+        {
+            "name": "🔎┃suggestions",
+            "id": 1265867013562040451,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "📚 Salons textuels"
+        },
+        {
+            "name": "📞┃Support #8",
+            "id": 1270394094492848190,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "🆘 Support Staff"
+        }
+    ]
+}

@@ -1,0 +1,3004 @@
+{
+    "name": "Câlin pour tous 💕",
+    "id": 801891269759598653,
+    "roles": [
+        {
+            "name": "@everyone",
+            "permissions": 104189505,
+            "position": 0,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "EnderBot",
+            "permissions": 260472086855489,
+            "position": 1,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "MarriageBot",
+            "permissions": 313408,
+            "position": 2,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "💎| Membre",
+            "permissions": 1024,
+            "position": 3,
+            "color": 1752220,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "Bongo",
+            "permissions": 26675542093169,
+            "position": 4,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "ServerStats",
+            "permissions": 1100824,
+            "position": 5,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "bump reminder",
+            "permissions": 268696721,
+            "position": 6,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "Mudae",
+            "permissions": 537159744,
+            "position": 8,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "Bots",
+            "permissions": 6546771521,
+            "position": 9,
+            "color": 9807270,
+            "hoist": true,
+            "mentionable": true
+        },
+        {
+            "name": "👀 | Couleur des Yeux : Noirs",
+            "permissions": 104189505,
+            "position": 10,
+            "color": 526344,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "👀 | Couleur des Yeux : Marrons",
+            "permissions": 4399156801,
+            "position": 11,
+            "color": 11027200,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "👀 | Couleur des Yeux : Verts",
+            "permissions": 4399156801,
+            "position": 12,
+            "color": 3066993,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "👀 | Couleur des Yeux : Bleus",
+            "permissions": 4399156801,
+            "position": 13,
+            "color": 3447003,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "👀 | Couleur des Yeux : Gris",
+            "permissions": 104189505,
+            "position": 14,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "❌ | Cheveux : Chauve",
+            "permissions": 0,
+            "position": 15,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🧡 | Cheveux : Roux",
+            "permissions": 4399156801,
+            "position": 16,
+            "color": 15105570,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "💛 | Cheveux : Blond",
+            "permissions": 4399156801,
+            "position": 17,
+            "color": 15844367,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🖤 | Cheveux : Châtains",
+            "permissions": 0,
+            "position": 18,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🖤 | Cheveux : Brun",
+            "permissions": 4399156801,
+            "position": 19,
+            "color": 526344,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🖤 | Cheveux : Teinture",
+            "permissions": 0,
+            "position": 20,
+            "color": 9807270,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🌍 | Provence-Alpes-Côte d’Azur",
+            "permissions": 107478371905,
+            "position": 21,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🌍 | Région : Occitanie",
+            "permissions": 107478371905,
+            "position": 22,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🌍 | Région : Nouvelle-Aquitaine",
+            "permissions": 107478371905,
+            "position": 23,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🌍 | Région : Bretagne",
+            "permissions": 107478371905,
+            "position": 24,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🌍 | Région : Normandie",
+            "permissions": 107478371905,
+            "position": 25,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🌍 | Région : Ile-de-France",
+            "permissions": 107478371905,
+            "position": 26,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🌍 | Région : Hauts-de-France",
+            "permissions": 0,
+            "position": 27,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🌍 | Région : Corse",
+            "permissions": 107478371905,
+            "position": 28,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🌍 | Région : Grand-Est",
+            "permissions": 0,
+            "position": 29,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🌍 | Région : Pays de la Loire",
+            "permissions": 107478371905,
+            "position": 30,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🌍 | Région : Centre-Val de Loire",
+            "permissions": 107478371905,
+            "position": 31,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🌍 | Région : Bourgogne-Franche-Comté",
+            "permissions": 107478371905,
+            "position": 32,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🌍 | Région : Auvergne-Rhône-Alpes",
+            "permissions": 107478371905,
+            "position": 33,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🏴 | Pays : France d'outre-mer",
+            "permissions": 1024,
+            "position": 34,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🏴 | Pays africains",
+            "permissions": 1024,
+            "position": 35,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🏴 | Pays : Suisse",
+            "permissions": 1024,
+            "position": 36,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🏴 | Pays : Belgique",
+            "permissions": 1024,
+            "position": 37,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🏴 | Pays : Canada",
+            "permissions": 1024,
+            "position": 38,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🏴 | Pays : France",
+            "permissions": 1024,
+            "position": 39,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🚭 | Ne fume pas",
+            "permissions": 104189505,
+            "position": 40,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🚬 | Je fume",
+            "permissions": 107478371905,
+            "position": 41,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "❌ | Aucun Tatouage",
+            "permissions": 104189505,
+            "position": 42,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "💠| Possède : Un/Des Tatouage(s)",
+            "permissions": 104189505,
+            "position": 43,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🧔 | Age : + de 30 ans",
+            "permissions": 1069551046209,
+            "position": 44,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🧔 | Age : 30 ans",
+            "permissions": 104189505,
+            "position": 45,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🧔 | Age : 29 ans",
+            "permissions": 104189505,
+            "position": 46,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🧔 | Age : 28 ans",
+            "permissions": 104189505,
+            "position": 47,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🧔 | Age : 27 ans",
+            "permissions": 104189505,
+            "position": 48,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🧔 | Age : 26 ans",
+            "permissions": 104189505,
+            "position": 49,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🧔 | Age : 25 ans",
+            "permissions": 1069551046209,
+            "position": 50,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "👱 | Age : 24 ans",
+            "permissions": 1069551046209,
+            "position": 51,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "👱 | Age : 23 ans",
+            "permissions": 1069551046209,
+            "position": 52,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "👱 | Age : 22 ans",
+            "permissions": 1069551046209,
+            "position": 53,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "👱 | Age : 21 ans",
+            "permissions": 1069551046209,
+            "position": 54,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "👱 | Age : 20 ans",
+            "permissions": 1069551046209,
+            "position": 55,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "👱 | Age : 19 ans",
+            "permissions": 1069551046209,
+            "position": 56,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "👱 | Age : 18 ans",
+            "permissions": 1069551046209,
+            "position": 57,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "👶 | Age : 17 ans",
+            "permissions": 1069551046209,
+            "position": 58,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "👶 | Age : 16 ans",
+            "permissions": 1069551046209,
+            "position": 59,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "👶 | Age : 15 ans",
+            "permissions": 1069551046209,
+            "position": 60,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "👶 | Age : 14 ans",
+            "permissions": 1069551046209,
+            "position": 61,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "👶 | Age : 13 ans",
+            "permissions": 1069551046209,
+            "position": 62,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "👶 | Age : 7 ans",
+            "permissions": 0,
+            "position": 63,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "📊 | Taille  : 2m10",
+            "permissions": 1069551046209,
+            "position": 64,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "📊 | Taille  : 2m05",
+            "permissions": 1069551046209,
+            "position": 65,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "📊 | Taille  : 2m00",
+            "permissions": 1069551046209,
+            "position": 66,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "📊 | Taille  : 1m95",
+            "permissions": 1069551046209,
+            "position": 67,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "📊 | Taille  : 1m90",
+            "permissions": 1069551046209,
+            "position": 68,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "📊 | Taille  : 1m85",
+            "permissions": 1069551046209,
+            "position": 69,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "📊 | Taille : 1m80",
+            "permissions": 1069551046209,
+            "position": 70,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "📊 | Taille   : 1m75",
+            "permissions": 1069551046209,
+            "position": 71,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "📊 | Taille : 1m70",
+            "permissions": 1069551046209,
+            "position": 72,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "📊 | Taille : 1m65",
+            "permissions": 1069551046209,
+            "position": 73,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "📊 | Taille  : 1m60",
+            "permissions": 1069551046209,
+            "position": 74,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "📊 | Taille  : 1m55",
+            "permissions": 1069551046209,
+            "position": 75,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "📊 | Taille  : 1m50",
+            "permissions": 1069551046209,
+            "position": 76,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🎉 | Née en : Décembre",
+            "permissions": 107478371905,
+            "position": 77,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🎉 | Née en : Novembre",
+            "permissions": 107478371905,
+            "position": 78,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🎉 | Née en : Octobre",
+            "permissions": 107478371905,
+            "position": 79,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🎉 | Née en : Septembre",
+            "permissions": 107478371905,
+            "position": 80,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🎉 | Née en : Aout",
+            "permissions": 107478371905,
+            "position": 81,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🎉 | Née en : Juillet",
+            "permissions": 107478371905,
+            "position": 82,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🎉 | Née en : Juin",
+            "permissions": 107478371905,
+            "position": 83,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🎉 | Née en : Mai",
+            "permissions": 107478371905,
+            "position": 84,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🎉 | Née en : Avril",
+            "permissions": 107478371905,
+            "position": 85,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🎉 | Née en : Mars",
+            "permissions": 107478371905,
+            "position": 86,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🎉 | Née en : Février",
+            "permissions": 107478371905,
+            "position": 87,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🎉 | Née en : Janvier",
+            "permissions": 107478371905,
+            "position": 88,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "❓ | Orientation : Asexuel",
+            "permissions": 6546640449,
+            "position": 89,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "💟 | Orientation : Pansexuel",
+            "permissions": 6546771521,
+            "position": 90,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "💕 | Orientation : Bisexuel",
+            "permissions": 6546771521,
+            "position": 91,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "👨‍❤️‍💋‍👨 | Orientation : Homosexuel",
+            "permissions": 6546771521,
+            "position": 92,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "💏 | Orientation : Hétérosexuel",
+            "permissions": 6546771521,
+            "position": 93,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "📚 | Taff",
+            "permissions": 107478371905,
+            "position": 94,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "📚 | Étudiant/e",
+            "permissions": 107478371905,
+            "position": 95,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "👦 | Lycéen/ne",
+            "permissions": 107478371905,
+            "position": 96,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "👶 | Collégien/ne",
+            "permissions": 107478371905,
+            "position": 97,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "💔 | Célibataire",
+            "permissions": 6546640449,
+            "position": 98,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "❤️ | En Crush",
+            "permissions": 104189505,
+            "position": 99,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "💞 | En Couple",
+            "permissions": 6546771521,
+            "position": 100,
+            "color": 16752286,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "⚧️ | Transgenre",
+            "permissions": 0,
+            "position": 101,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "⚧ | Sans Genre",
+            "permissions": 70375290818113,
+            "position": 102,
+            "color": 9807270,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🚹 | Garçon",
+            "permissions": 70375290818113,
+            "position": 103,
+            "color": 5963773,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🚺 | Fille",
+            "permissions": 70375290818113,
+            "position": 104,
+            "color": 16711885,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "• • • • • • • • • • 👇| INFOS 👇 • • • • • • • • • •",
+            "permissions": 107478371905,
+            "position": 105,
+            "color": 1249810,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "✏️| Illustrateur/trice",
+            "permissions": 0,
+            "position": 106,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "📕 | Réviser",
+            "permissions": 104189505,
+            "position": 107,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🗣️| Sociabiliser",
+            "permissions": 0,
+            "position": 108,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "😏| Draguer",
+            "permissions": 0,
+            "position": 109,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🍽️| Aller au restau",
+            "permissions": 0,
+            "position": 110,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🏊| Aller à la piscine",
+            "permissions": 0,
+            "position": 111,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🎣| Aller à la pêche",
+            "permissions": 0,
+            "position": 112,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "📺| Aller au ciné",
+            "permissions": 0,
+            "position": 113,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "✈️ | Voyages",
+            "permissions": 104189505,
+            "position": 114,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🧹| Tâches ménagères",
+            "permissions": 0,
+            "position": 115,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "💻| Taffer",
+            "permissions": 0,
+            "position": 116,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🎉 | Jouer à des Jeux de Société",
+            "permissions": 104189505,
+            "position": 117,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🎮 | Jouer aux jeux-vidéos",
+            "permissions": 6546640449,
+            "position": 118,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🎸| Jouer d'un/des Instrument(s)",
+            "permissions": 104189505,
+            "position": 119,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🎵 | Écouter de la Musique",
+            "permissions": 6546771521,
+            "position": 120,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🎤 | Chant/Rap",
+            "permissions": 104189505,
+            "position": 121,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🚶 | Promenades",
+            "permissions": 104189505,
+            "position": 122,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "📝 | Écriture",
+            "permissions": 6546771521,
+            "position": 123,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "📚 | Lecture",
+            "permissions": 104189505,
+            "position": 124,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🖋 | Dessins/Peintures/Arts",
+            "permissions": 6546640449,
+            "position": 125,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🤣 | Troller",
+            "permissions": 0,
+            "position": 126,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🎧 | Beatmaking",
+            "permissions": 104189505,
+            "position": 127,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "📺 | Films | Séries",
+            "permissions": 6546771521,
+            "position": 128,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "✨| Animes | Mangas",
+            "permissions": 6546771521,
+            "position": 129,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🛋️| Regarder Youtube",
+            "permissions": 0,
+            "position": 130,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "📱| Trainer sur les réseaux",
+            "permissions": 0,
+            "position": 131,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "📱| Tiktokeur/euse",
+            "permissions": 0,
+            "position": 132,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🎥| Youtubeur/euse",
+            "permissions": 0,
+            "position": 133,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "📷 | Photographie",
+            "permissions": 104189505,
+            "position": 134,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "💻| Montage vidéo",
+            "permissions": 0,
+            "position": 135,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🎥| Streamer",
+            "permissions": 0,
+            "position": 136,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "👜 | Shopping",
+            "permissions": 6546771521,
+            "position": 137,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🐶| S'occuper de ses animaux",
+            "permissions": 0,
+            "position": 138,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "👨‍🍳 | Cuisine",
+            "permissions": 6546771521,
+            "position": 139,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🔨 | Bricolage",
+            "permissions": 104189505,
+            "position": 140,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🍼 | Baby-sitting",
+            "permissions": 104189505,
+            "position": 141,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🧵 | Couture",
+            "permissions": 104189505,
+            "position": 142,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🥳 | Soirées",
+            "permissions": 104189505,
+            "position": 143,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "😴 | Sieste",
+            "permissions": 104189505,
+            "position": 144,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🎀 | Massages",
+            "permissions": 104189505,
+            "position": 145,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "😘 |  Bisous/Câlins",
+            "permissions": 104189505,
+            "position": 146,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🧘| Yoga/Méditation",
+            "permissions": 0,
+            "position": 147,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🥊 | Sport",
+            "permissions": 104189505,
+            "position": 148,
+            "color": 16767132,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "• • • • • • • •👇| ACTIVITÉS 👇 • • • • • • • •",
+            "permissions": 107478371905,
+            "position": 149,
+            "color": 657930,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🙏 | PING - Partenariats",
+            "permissions": 244917325377,
+            "position": 150,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "📝 | PING - Sondages",
+            "permissions": 244917325377,
+            "position": 151,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🔥 | PING - Évènements",
+            "permissions": 104189505,
+            "position": 152,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🎤 | PING - Vocal",
+            "permissions": 104189505,
+            "position": 153,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🎉 | PING - Giveaway",
+            "permissions": 104189505,
+            "position": 154,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🍪 | PING - Mises à jour",
+            "permissions": 104189505,
+            "position": 155,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🔔 | PING - Annonces",
+            "permissions": 244917325377,
+            "position": 156,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🎂 | Anniversaire Fêté",
+            "permissions": 1069551046209,
+            "position": 157,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🔒 | Messages Privés Fermés",
+            "permissions": 6546640449,
+            "position": 158,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🔓 | Messages Privés Ouvert",
+            "permissions": 6546771521,
+            "position": 159,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🔐 | Messages Privés sur Demande",
+            "permissions": 6546771521,
+            "position": 160,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "⚠️ | Messages Privés SI IMPORTANT",
+            "permissions": 0,
+            "position": 161,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "👨‍❤️‍👨 | Recherche : l'Amitié",
+            "permissions": 244917325377,
+            "position": 162,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "💌 | Recherche : l'Amour",
+            "permissions": 244917325377,
+            "position": 163,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "👍 | Membre Vérifié",
+            "permissions": 107478371905,
+            "position": 164,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "👍 | Présentation Validée",
+            "permissions": 107478371905,
+            "position": 165,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "📬 | Membres invités : 30",
+            "permissions": 0,
+            "position": 166,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "📬 | Membres invités  : 20",
+            "permissions": 0,
+            "position": 167,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "📬 | Membres invités  : 10",
+            "permissions": 0,
+            "position": 168,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "📬 | Membres invités : 5",
+            "permissions": 0,
+            "position": 169,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "📷 | Fichiers Envoyés : 2 000",
+            "permissions": 0,
+            "position": 170,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "📷 | Fichiers Envoyés : 1 000",
+            "permissions": 0,
+            "position": 171,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "📷 | Fichiers Envoyés : 750",
+            "permissions": 0,
+            "position": 172,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "📷 | Fichiers Envoyés : 500",
+            "permissions": 0,
+            "position": 173,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "📷 | Fichiers Envoyés : 200",
+            "permissions": 0,
+            "position": 174,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "📷 | Fichiers Envoyés : 100",
+            "permissions": 0,
+            "position": 175,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "✍| Messages Envoyés : 175 000",
+            "permissions": 0,
+            "position": 176,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "✍| Messages Envoyés : 150 000",
+            "permissions": 0,
+            "position": 177,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "✍| Messages Envoyés : 125 000",
+            "permissions": 0,
+            "position": 178,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "✍| Messages Envoyés : 100 000",
+            "permissions": 0,
+            "position": 179,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "✍| Messages Envoyés : 75 000",
+            "permissions": 0,
+            "position": 180,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "✍| Messages Envoyés : 50 000",
+            "permissions": 0,
+            "position": 181,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "✍| Messages Envoyés : 25 000",
+            "permissions": 0,
+            "position": 182,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "✍| Messages Envoyés : 10 000",
+            "permissions": 0,
+            "position": 183,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "⌚ | Ancienneté : 3 ans et demi",
+            "permissions": 0,
+            "position": 184,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "⌚ | Ancienneté : 3 ans",
+            "permissions": 0,
+            "position": 185,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "⌚ | Ancienneté : 2 ans et demi",
+            "permissions": 0,
+            "position": 186,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "⌚ | Ancienneté : 2 ans",
+            "permissions": 104189505,
+            "position": 187,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "⌚ | Ancienneté : 1 an et demi",
+            "permissions": 104189505,
+            "position": 188,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "⌚ | Ancienneté : 1 an",
+            "permissions": 104189505,
+            "position": 189,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "⌚ | Ancienneté : 6 mois",
+            "permissions": 104189505,
+            "position": 190,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🌠 | Niveau : 5",
+            "permissions": 0,
+            "position": 191,
+            "color": 15892223,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "🌠 | Niveau : 10",
+            "permissions": 0,
+            "position": 192,
+            "color": 15892223,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "🌠 | Niveau : 15",
+            "permissions": 0,
+            "position": 193,
+            "color": 15892223,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "🌠 | Niveau : 20",
+            "permissions": 0,
+            "position": 194,
+            "color": 15892223,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "🌠| Niveau : 25",
+            "permissions": 0,
+            "position": 195,
+            "color": 15892223,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "🌠 | Niveau : 30",
+            "permissions": 0,
+            "position": 196,
+            "color": 15892223,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "🌠 | Niveau : 35",
+            "permissions": 0,
+            "position": 197,
+            "color": 15892223,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "🌠 | Niveau : 40",
+            "permissions": 0,
+            "position": 198,
+            "color": 15892223,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "🌠|  Niveau : 45",
+            "permissions": 0,
+            "position": 199,
+            "color": 15892223,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "🌠|  Niveau : 50",
+            "permissions": 0,
+            "position": 200,
+            "color": 15892223,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "💵 | Rôle boost ARGENT",
+            "permissions": 0,
+            "position": 201,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "➕| Rôle boost EXP",
+            "permissions": 0,
+            "position": 202,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🖊️ | Rôle présentation",
+            "permissions": 0,
+            "position": 203,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "📷 | Rôle images",
+            "permissions": 49152,
+            "position": 204,
+            "color": 15892223,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "CHERCHE MEUF PTNNN",
+            "permissions": 0,
+            "position": 205,
+            "color": 15618815,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "• • • 👇|  À PROPOS DU SERVEUR 👇• • •",
+            "permissions": 107478371905,
+            "position": 206,
+            "color": 197379,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "Nerf",
+            "permissions": 0,
+            "position": 207,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🙏 | Partenaires",
+            "permissions": 4399156801,
+            "position": 208,
+            "color": 3066993,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "🙏 | Boosters",
+            "permissions": 4399156801,
+            "position": 209,
+            "color": 15475820,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "💛 | Couleur du pseudo : Jaune",
+            "permissions": 4399156801,
+            "position": 210,
+            "color": 16766720,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🧡 | Couleur du pseudo : Orange",
+            "permissions": 4399156801,
+            "position": 211,
+            "color": 16750848,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "💚 | Couleur du pseudo : Vert ••",
+            "permissions": 4399156801,
+            "position": 212,
+            "color": 10614926,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "💚 | Couleur du pseudo : Vert •",
+            "permissions": 0,
+            "position": 213,
+            "color": 1113856,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "❤️ | Couleur du pseudo : Rouge ••",
+            "permissions": 4399156801,
+            "position": 214,
+            "color": 16711680,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "❤️ | Couleur du pseudo : Rouge •",
+            "permissions": 0,
+            "position": 215,
+            "color": 16754085,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "💙 | Couleur du pseudo : Bleu ••",
+            "permissions": 4399156801,
+            "position": 216,
+            "color": 846335,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "💙 | Couleur du pseudo : Bleu •",
+            "permissions": 0,
+            "position": 217,
+            "color": 590079,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "💗 | Couleur du pseudo : Rose ••",
+            "permissions": 4399156801,
+            "position": 218,
+            "color": 16363263,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "💗 | Couleur du pseudo : Rose •",
+            "permissions": 0,
+            "position": 219,
+            "color": 15414783,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "💜 | Couleur du pseudo : Violet ••",
+            "permissions": 4399156801,
+            "position": 220,
+            "color": 10617087,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "💜 | Couleur du pseudo : Violet •",
+            "permissions": 0,
+            "position": 221,
+            "color": 10311328,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🖤 | Couleur du pseudo : Gris",
+            "permissions": 0,
+            "position": 222,
+            "color": 7173237,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🖤 | Couleur du pseudo : Noir",
+            "permissions": 4399156801,
+            "position": 223,
+            "color": 197379,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🤍 | Couleur du pseudo : Blanc",
+            "permissions": 4399156801,
+            "position": 224,
+            "color": 16777215,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "Non vérifié",
+            "permissions": 66560,
+            "position": 225,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "YAGPDB.xyz",
+            "permissions": 8804682300927,
+            "position": 226,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "InviteManager",
+            "permissions": 8,
+            "position": 227,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "Koya",
+            "permissions": 28033251011839,
+            "position": 228,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "DISBOARD.org",
+            "permissions": 19473,
+            "position": 229,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "📌 | Community Manager",
+            "permissions": 0,
+            "position": 230,
+            "color": 3447003,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "🎉 | Animateurs",
+            "permissions": 6292394987329,
+            "position": 231,
+            "color": 10246655,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "🔥 | Modos",
+            "permissions": 98097052512199,
+            "position": 232,
+            "color": 16287175,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "",
+            "permissions": 0,
+            "position": 233,
+            "color": 1,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "",
+            "permissions": 0,
+            "position": 234,
+            "color": 13239292,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "",
+            "permissions": 0,
+            "position": 235,
+            "color": 13739661,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "",
+            "permissions": 8,
+            "position": 236,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "Isolement",
+            "permissions": 0,
+            "position": 237,
+            "color": 11765828,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "Wick",
+            "permissions": 8,
+            "position": 238,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "DraftBot",
+            "permissions": 8803038121305,
+            "position": 239,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "Ticket Tool",
+            "permissions": 2416035912,
+            "position": 240,
+            "color": 0,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "🤖 | Admins",
+            "permissions": 420013441810175,
+            "position": 241,
+            "color": 16287175,
+            "hoist": true,
+            "mentionable": false
+        },
+        {
+            "name": "",
+            "permissions": 104189505,
+            "position": 242,
+            "color": 16777215,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "",
+            "permissions": 0,
+            "position": 243,
+            "color": 327496,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "❤️",
+            "permissions": 139690626633,
+            "position": 244,
+            "color": 16777215,
+            "hoist": false,
+            "mentionable": false
+        },
+        {
+            "name": "👑💕 | Fondas",
+            "permissions": 8804682432511,
+            "position": 245,
+            "color": 16777215,
+            "hoist": true,
+            "mentionable": true
+        }
+    ],
+    "channels": [
+        {
+            "name": "✧･ﾟ👶┆Collégiens : 251",
+            "id": 914851598080036864,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "~|📊|~Statistiques~|📊|~"
+        },
+        {
+            "name": "~|🎉|~Vie du serveur~|🎉|~",
+            "id": 872081955695505448,
+            "type": "category",
+            "channels": [
+                801892269627670538,
+                857656915101745183,
+                915603577454604328,
+                814448487793164318,
+                929507606651879434,
+                916708615732207686,
+                802173757329375282,
+                1081689444538654720
+            ]
+        },
+        {
+            "name": "┆📊┆sondages",
+            "id": 854015204203429928,
+            "type": "text",
+            "topic": "Ici tu peux voter parmi les différents sondages qu'on propose sur le serveur",
+            "nsfw": false,
+            "category": "~|🎁|~Evenements~|🎁|~"
+        },
+        {
+            "name": "Tickets",
+            "id": 1200074877957316720,
+            "type": "category",
+            "channels": [
+                1200074879882510376
+            ]
+        },
+        {
+            "name": "┆⭐💬┆forum-discussions",
+            "id": 1074666206650441728,
+            "type": "forum"
+        },
+        {
+            "name": "┆📜┆rôles-à-propos-du-serveur",
+            "id": 903581038545076224,
+            "type": "text",
+            "topic": "Ici vous pourrez trouvez les rôles de mentions, votre système de MP ou la couleur dont votre pseudo sera affiché sur notre serveur",
+            "nsfw": false,
+            "category": "~|🌸|~Accueil~|🌸|~"
+        },
+        {
+            "name": "demandes-de-tickets",
+            "id": 1200074879882510376,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "Tickets"
+        },
+        {
+            "name": "modlogs",
+            "id": 1109490513565986889,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": null
+        },
+        {
+            "name": "┆🤖┆commandes-bots",
+            "id": 801915878420906015,
+            "type": "text",
+            "topic": "Toutes les commandes avec les bots",
+            "nsfw": false,
+            "category": "~|👾|~Commandes~|👾|~"
+        },
+        {
+            "name": "┆🥵┆Baiser",
+            "id": 1176625509468209173,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 2,
+            "category": "~|🔊|~Vocaux~|🔊|~"
+        },
+        {
+            "name": "┆👦┆17-20ans",
+            "id": 892365390909419550,
+            "type": "text",
+            "topic": "Ici uniquement les jeunes adultes de 17 à 20 ans peuvent discuter",
+            "nsfw": false,
+            "category": "~|💬|~Discussion~|💬|~"
+        },
+        {
+            "name": "┆🍿┆Film",
+            "id": 1163177549304701078,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "~|🔊|~Vocaux~|🔊|~"
+        },
+        {
+            "name": "┆📞┆vocaux",
+            "id": 918860438492553226,
+            "type": "text",
+            "topic": "Logs pour voir les gens qui vont discuter dans les salons vocaux",
+            "nsfw": false,
+            "category": "~|👀|~Staff-logs~|👀|~"
+        },
+        {
+            "name": "┆👀┆log-roles",
+            "id": 1121111639664623616,
+            "type": "text",
+            "topic": "Historique pour voir la création de rôles ou la suppression",
+            "nsfw": false,
+            "category": "~|👀|~Staff-logs~|👀|~"
+        },
+        {
+            "name": "~|📸|~Media~|📸|~",
+            "id": 801911027578306631,
+            "type": "category",
+            "channels": [
+                801892402230853653,
+                1004336061549395978,
+                801911117596852244,
+                801911218767921153,
+                801911251898466396,
+                1127568182081753160
+            ]
+        },
+        {
+            "name": "┆💰┆transactions",
+            "id": 918860462358167592,
+            "type": "text",
+            "topic": "Logs pour voir les transactions d'argents des membres faites avec DraftBot",
+            "nsfw": false,
+            "category": "~|👀|~Staff-logs~|👀|~"
+        },
+        {
+            "name": "~|💬|~Discussion~|💬|~",
+            "id": 801891269759598654,
+            "type": "category",
+            "channels": [
+                801891269759598656,
+                872431780345577474,
+                918513424135229480,
+                866975323732443136,
+                866975437929185360,
+                1172941181890605256,
+                865567371689984000,
+                801920581250318377,
+                892363423776665620,
+                892365390909419550,
+                892366147427635220,
+                917533912849317888,
+                1079519899619176518,
+                1074666206650441728
+            ]
+        },
+        {
+            "name": "┆🧸┆rôles-à-gagner",
+            "id": 1081689444538654720,
+            "type": "text",
+            "topic": "Voici les rôles qu'on propose à gagner en dehors du système de leveling \nBien évidemment c'est juste pour que vous flexez au sein de la communauté",
+            "nsfw": false,
+            "category": "~|🎉|~Vie du serveur~|🎉|~"
+        },
+        {
+            "name": "┆🔔┆partenariats",
+            "id": 814448487793164318,
+            "type": "text",
+            "topic": "Ici vous pourrez retrouver les partenariats qu'on a élaborés avec les autres communautés",
+            "nsfw": false,
+            "category": "~|🎉|~Vie du serveur~|🎉|~"
+        },
+        {
+            "name": "┆⚔┆enderbot",
+            "id": 1141742683363225740,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "~|👾|~Commandes~|👾|~"
+        },
+        {
+            "name": "✧･ﾟ🚹┆Garçons : 1641",
+            "id": 903655522102820904,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "~|📊|~Statistiques~|📊|~"
+        },
+        {
+            "name": "┆🌠┆booster",
+            "id": 1108737311539212409,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "~|👀|~Staff-logs~|👀|~"
+        },
+        {
+            "name": "✧･ﾟ☕┆admins",
+            "id": 856251884468568104,
+            "type": "text",
+            "topic": "Salon unique pour les admins",
+            "nsfw": false,
+            "category": "~|👑|~Staff~|👑|~"
+        },
+        {
+            "name": "┆☕┆street-lifting",
+            "id": 1085280451905716264,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": null
+        },
+        {
+            "name": "✧･ﾟ🔥┆candidater-pour-être-staff",
+            "id": 1131267539289247784,
+            "type": "text",
+            "topic": "**Incruste le mot \" Lapin \" dans le ticket de ta candidature.** \nCela nous prouvera que tu as bien pris la peine de lire un minimum ce salon.\n\n__À noter que les candidatures modérateurs sont fermées__",
+            "nsfw": false,
+            "category": "~|👑|~Staff~|👑|~"
+        },
+        {
+            "name": "┆🎁┆évènements",
+            "id": 1074665391042875442,
+            "type": "text",
+            "topic": "Hello à tous ! \n\nChaque semaine dans ce salon il y aura un évènement visant à traiter différents thèmes\nIl y aura également des récompenses à la clé pour le/les gagnants de la semaine !",
+            "nsfw": false,
+            "category": "~|🎁|~Evenements~|🎁|~"
+        },
+        {
+            "name": "✧･ﾟ📈┆Niveau 20 : 10",
+            "id": 926142733972807700,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "~|📊|~Statistiques~|📊|~"
+        },
+        {
+            "name": "┆🎶┆Voc musique",
+            "id": 801891270268157952,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "~|🔊|~Vocaux~|🔊|~"
+        },
+        {
+            "name": "┆👮┆log-moderateur",
+            "id": 1108734383646576740,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "~|👀|~Staff-logs~|👀|~"
+        },
+        {
+            "name": "┆📌┆mise-à-jour",
+            "id": 857656915101745183,
+            "type": "text",
+            "topic": "Pour vous tenir au courant des modifications qu'on fera sur le serveur en terme de nouveautés etc",
+            "nsfw": false,
+            "category": "~|🎉|~Vie du serveur~|🎉|~"
+        },
+        {
+            "name": "┆🎁┆giveaway",
+            "id": 894570768921411584,
+            "type": "text",
+            "topic": "Salon qui englobe les giveaways du serveur",
+            "nsfw": false,
+            "category": "~|🎁|~Evenements~|🎁|~"
+        },
+        {
+            "name": "✧･ﾟ🔥┆Staff : 14",
+            "id": 903655524241903616,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "~|📊|~Statistiques~|📊|~"
+        },
+        {
+            "name": "✧･ﾟ📌┆Rôles : 249",
+            "id": 903655090076934234,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "~|📊|~Statistiques~|📊|~"
+        },
+        {
+            "name": "┆🌠┆boosts",
+            "id": 929507606651879434,
+            "type": "text",
+            "topic": "Historique des gens qui ont boostés le serveur",
+            "nsfw": false,
+            "category": "~|🎉|~Vie du serveur~|🎉|~"
+        },
+        {
+            "name": "┆🎮┆rôles-activités",
+            "id": 903581404334542868,
+            "type": "text",
+            "topic": "Ici tu auras le choix entre les différents rôles traitant les activités",
+            "nsfw": false,
+            "category": "~|🌸|~Accueil~|🌸|~"
+        },
+        {
+            "name": "┆😁┆présente-toi",
+            "id": 801892402230853653,
+            "type": "text",
+            "topic": "À la fin de votre présentation vous obtiendrez un rôle qui vous retirera le droit de rédiger dans ce salon \nÀ savoir que les présentations trolls seront sanctionnées \n( Voir plus précisément le salon règles )",
+            "nsfw": false,
+            "category": "~|📸|~Media~|📸|~"
+        },
+        {
+            "name": "┆💬┆papotage",
+            "id": 801891269759598656,
+            "type": "text",
+            "topic": "On vous encourage à respecter les règles du serveur et à prendre le reste de vos rôles si vous le souhaitez",
+            "nsfw": false,
+            "category": "~|💬|~Discussion~|💬|~"
+        },
+        {
+            "name": "✧･ﾟ🚺┆Filles : 627",
+            "id": 903655523189162055,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "~|📊|~Statistiques~|📊|~"
+        },
+        {
+            "name": "✧･ﾟ🤖┆bots",
+            "id": 897536163668176967,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "~|👑|~Staff~|👑|~"
+        },
+        {
+            "name": "✧･ﾟ✅┆Prés' : 513",
+            "id": 914849880462209054,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "~|📊|~Statistiques~|📊|~"
+        },
+        {
+            "name": "┆🚻┆rôles-vos-infos",
+            "id": 903580952276656159,
+            "type": "text",
+            "topic": "À savoir qu'uniquement le rôle d'âge est obligatoire",
+            "nsfw": false,
+            "category": "~|🌸|~Accueil~|🌸|~"
+        },
+        {
+            "name": "┆💬┆spam-discute",
+            "id": 872431780345577474,
+            "type": "text",
+            "topic": "Pour écrire ce que vous souhaitez ( en respectant les règles ) sans avoir à polluer le général",
+            "nsfw": false,
+            "category": "~|💬|~Discussion~|💬|~"
+        },
+        {
+            "name": "┆📣┆conférences-et-évènements",
+            "id": 918860482511765505,
+            "type": "text",
+            "topic": "Logs pour voir les évènements et les conférences de la communauté",
+            "nsfw": false,
+            "category": "~|👀|~Staff-logs~|👀|~"
+        },
+        {
+            "name": "┆🚫┆Privé 4",
+            "id": 932365629284040785,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 4,
+            "category": "~|🔊|~Vocaux~|🔊|~"
+        },
+        {
+            "name": "┆🔉┆Parlote Vérifié",
+            "id": 933074936048779366,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "~|🔊|~Vocaux~|🔊|~"
+        },
+        {
+            "name": "~|🔊|~Vocaux Personnels~|🔊|~",
+            "id": 1147599195000295515,
+            "type": "category",
+            "channels": [
+                1147498202732433500
+            ]
+        },
+        {
+            "name": "┆⭐┆notre-pub",
+            "id": 915603577454604328,
+            "type": "text",
+            "topic": "Ici se trouve la pub de notre serveur",
+            "nsfw": false,
+            "category": "~|🎉|~Vie du serveur~|🎉|~"
+        },
+        {
+            "name": "~|👾|~Commandes~|👾|~",
+            "id": 801913654361456671,
+            "type": "category",
+            "channels": [
+                801893646071758928,
+                856544311381983232,
+                801915878420906015,
+                864978503815266374,
+                801913691242233926,
+                862704376236474448,
+                867745484890177576,
+                1141742683363225740
+            ]
+        },
+        {
+            "name": "✧･ﾟ📨┆archives-tickets",
+            "id": 890611423208677427,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "~|📫|~Tickets~|📫|~"
+        },
+        {
+            "name": "✧･ﾟ🛑┆warns",
+            "id": 845972522721607700,
+            "type": "text",
+            "topic": "**Avertissements pour les membres qui ne respectent pas les règles.**\n\nAu bout de 3 warns vous serez banni de la communauté, on vous encourage donc au maximum à respecter les règles.\nIl est possible tout de même que l'on vous place un temps en isolement si l'on considère que l'accumulation des 3 sanctions ne méritent pas le bannissement de la communauté.",
+            "nsfw": false,
+            "category": "~|👑|~Staff~|👑|~"
+        },
+        {
+            "name": "✧･ﾟ👑┆que-le-staff",
+            "id": 869863751887781918,
+            "type": "text",
+            "topic": "Pour discuter entre le staff",
+            "nsfw": false,
+            "category": "~|👑|~Staff~|👑|~"
+        },
+        {
+            "name": "┆➕ ┆Créer votre salon",
+            "id": 1147498202732433500,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "~|🔊|~Vocaux Personnels~|🔊|~"
+        },
+        {
+            "name": "┆⚧┆les-trans",
+            "id": 1172941181890605256,
+            "type": "text",
+            "topic": "Salon unique pour les personnes transexuelles.",
+            "nsfw": false,
+            "category": "~|💬|~Discussion~|💬|~"
+        },
+        {
+            "name": "✧･ﾟ🎉┆animation",
+            "id": 1100514060270837760,
+            "type": "text",
+            "topic": "Pour que les animateurs puissent discuter entre eux sur leurs idées",
+            "nsfw": false,
+            "category": "~|👑|~Staff~|👑|~"
+        },
+        {
+            "name": "┆💭┆confessions-anonymes",
+            "id": 865567371689984000,
+            "type": "text",
+            "topic": "Pour afficher votre confession dans ce salon il vous suffira simplement d'écrire \" /confess \" puis de sélectionner \" content \" et de rédiger votre confession\nVotre confession y sera affichée anonymement et les gens pourront y répondre à la suite\n\n( IMPORTANT À PRÉCISER ) --> Pas de troll dans les confessions et on vous invite à éviter de prendre ce salon comme un deuxième papotage\nSi vous trollez vous serez sanctionné",
+            "nsfw": false,
+            "category": "~|💬|~Discussion~|💬|~"
+        },
+        {
+            "name": "┆😘┆Bisou privé",
+            "id": 901966531909537792,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 2,
+            "category": "~|🔊|~Vocaux~|🔊|~"
+        },
+        {
+            "name": "✧･ﾟ📚┆Étudiants : 279",
+            "id": 914852565265580093,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "~|📊|~Statistiques~|📊|~"
+        },
+        {
+            "name": "✧･ﾟ🤝┆prérequis-partenariat",
+            "id": 873283037293576292,
+            "type": "text",
+            "topic": "__Merci de lire ce salon avant d'effectuer une demande de partenariat en ticket__",
+            "nsfw": false,
+            "category": "~|👑|~Staff~|👑|~"
+        },
+        {
+            "name": "┆💰┆drop-exp-argents",
+            "id": 935259470685167646,
+            "type": "text",
+            "topic": "Salon pour faire des drops d'expérience et d'argent",
+            "nsfw": false,
+            "category": "~|🎁|~Evenements~|🎁|~"
+        },
+        {
+            "name": "┆⭕┆AFK",
+            "id": 801918323343228928,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "~|🔊|~Vocaux~|🔊|~"
+        },
+        {
+            "name": "✧･ﾟ✅┆vérifiés",
+            "id": 853974035195756554,
+            "type": "text",
+            "topic": "Salon unique pour les membres qui sont passés par une vérification d'identité",
+            "nsfw": false,
+            "category": "~|👑|~Staff~|👑|~"
+        },
+        {
+            "name": "┆🎁┆avantages-boost",
+            "id": 916708615732207686,
+            "type": "text",
+            "topic": "Ici une liste des avantages pour avoir boosté notre communauté",
+            "nsfw": false,
+            "category": "~|🎉|~Vie du serveur~|🎉|~"
+        },
+        {
+            "name": "┆🔒┆wickbot",
+            "id": 995328089322172446,
+            "type": "text",
+            "topic": "Filtrage de comptes récents de RaidProtect",
+            "nsfw": false,
+            "category": "~|👀|~Staff-logs~|👀|~"
+        },
+        {
+            "name": "┆🌸┆mudae",
+            "id": 864978503815266374,
+            "type": "text",
+            "topic": "Lisez les épinglés pour vous familiariser avec le bot.",
+            "nsfw": false,
+            "category": "~|👾|~Commandes~|👾|~"
+        },
+        {
+            "name": "┆👴┆31-ans-et-plus",
+            "id": 1079519899619176518,
+            "type": "text",
+            "topic": "Ici c'est les reliques",
+            "nsfw": false,
+            "category": "~|💬|~Discussion~|💬|~"
+        },
+        {
+            "name": "✧･ﾟ🔔┆Partenaires : 42",
+            "id": 914854640808517632,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "~|📊|~Statistiques~|📊|~"
+        },
+        {
+            "name": "┆🚫┆Privé 3",
+            "id": 932365495045337148,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 3,
+            "category": "~|🔊|~Vocaux~|🔊|~"
+        },
+        {
+            "name": "┆🔏┆demande-de-mp",
+            "id": 801920581250318377,
+            "type": "text",
+            "topic": "Pour demander l'autorisation de parler à quelqu'un qui serait en demande de mp",
+            "nsfw": false,
+            "category": "~|💬|~Discussion~|💬|~"
+        },
+        {
+            "name": "ticket-0202",
+            "id": 1268231329321975900,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "~|📫|~Tickets~|📫|~"
+        },
+        {
+            "name": "┆🎲┆action-ou-vérité",
+            "id": 858274597215535104,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "~|🎁|~Evenements~|🎁|~"
+        },
+        {
+            "name": "┆🍰┆bienvenue",
+            "id": 970292826392907777,
+            "type": "text",
+            "topic": "Historique pour voir toutes les personnes qui rejoignent le serveur",
+            "nsfw": false,
+            "category": "~|🌸|~Accueil~|🌸|~"
+        },
+        {
+            "name": "┆👨┆que-les-garçons",
+            "id": 866975323732443136,
+            "type": "text",
+            "topic": "Ici uniquement les garçons peuvent discuter",
+            "nsfw": false,
+            "category": "~|💬|~Discussion~|💬|~"
+        },
+        {
+            "name": "┆⛔┆spam",
+            "id": 898995568880267334,
+            "type": "text",
+            "topic": null,
+            "nsfw": true,
+            "category": null
+        },
+        {
+            "name": "┆🎭┆vos-bouilles",
+            "id": 801911117596852244,
+            "type": "text",
+            "topic": "Niveau 5 minimum pour poster des photos de vous.",
+            "nsfw": false,
+            "category": "~|📸|~Media~|📸|~"
+        },
+        {
+            "name": "┆🏆┆récompenses-bot",
+            "id": 856544311381983232,
+            "type": "text",
+            "topic": "À chaque palier de 10 niveaux, vous obtiendrez un rôle qui soulignera votre activité au sein de notre communauté",
+            "nsfw": false,
+            "category": "~|👾|~Commandes~|👾|~"
+        },
+        {
+            "name": "✧･ﾟ📨┆tickets",
+            "id": 873281412466343947,
+            "type": "text",
+            "topic": "Porter plainte, demander un partenariat avec notre serveur ou postuler à un rôle en tant que staff ?\nTout se passe ici",
+            "nsfw": false,
+            "category": "~|📫|~Tickets~|📫|~"
+        },
+        {
+            "name": "┆🎵┆commandes-musique",
+            "id": 801911438540275793,
+            "type": "text",
+            "topic": "Ici c'est un salon pour envoyer des musiques et utiliser les bots musicaux. \n\nPrefix : b.p \"le nom de votre musique\". et b.join (pour qu'il rejoigne votre channel.\n\nb.help pour avoir accès à toutes les commandes.",
+            "nsfw": false,
+            "category": "~|🔊|~Vocaux~|🔊|~"
+        },
+        {
+            "name": "~|👑|~Staff~|👑|~",
+            "id": 801894506495475764,
+            "type": "category",
+            "channels": [
+                869863751887781918,
+                1121835072832667708,
+                1100514060270837760,
+                897536163668176967,
+                1121894816796651655,
+                856251884468568104,
+                853974035195756554,
+                1195371742403772466,
+                845972522721607700,
+                1109541413286334464,
+                1131267539289247784,
+                873283037293576292,
+                1131013333865205842
+            ]
+        },
+        {
+            "name": "~|📊|~Statistiques~|📊|~",
+            "id": 902137091083890728,
+            "type": "category",
+            "channels": [
+                1083707343163891713,
+                903655522102820904,
+                903655523189162055,
+                903655090076934234,
+                914849880462209054,
+                926142733972807700,
+                914851598080036864,
+                914852077035978782,
+                914852565265580093,
+                914854640808517632,
+                903655088990617620,
+                903655524241903616
+            ]
+        },
+        {
+            "name": "┆✋┆demande-de-rôles",
+            "id": 802173757329375282,
+            "type": "text",
+            "topic": "Ici tu peux demander les rôles d'anciennetés ou de messages envoyés qu'on propose dans le salon au-dessus",
+            "nsfw": false,
+            "category": "~|🎉|~Vie du serveur~|🎉|~"
+        },
+        {
+            "name": "~|📫|~Tickets~|📫|~",
+            "id": 1156893143812296764,
+            "type": "category",
+            "channels": [
+                890611423208677427,
+                873281412466343947,
+                1268231329321975900
+            ]
+        },
+        {
+            "name": "┆👋🏻┆réactions-présentations",
+            "id": 1004336061549395978,
+            "type": "text",
+            "topic": "Pour réagir aux présentations des membres.\nLes personnes ayant des discussions qui dévient du thème du salon seront sanctionnées.",
+            "nsfw": false,
+            "category": "~|📸|~Media~|📸|~"
+        },
+        {
+            "name": "┆👋┆au-revoir",
+            "id": 801921566102913025,
+            "type": "text",
+            "topic": "Historique pour voir les gens qui décident de partir du serveur",
+            "nsfw": false,
+            "category": "~|🌸|~Accueil~|🌸|~"
+        },
+        {
+            "name": "~|🔊|~Vocaux~|🔊|~",
+            "id": 801891269759598655,
+            "type": "category",
+            "channels": [
+                801911438540275793,
+                1147597714549391441,
+                835432680358674432,
+                933074936048779366,
+                1163177549304701078,
+                801891270268157952,
+                901966531909537792,
+                1176625509468209173,
+                1116486091638312960,
+                932365495045337148,
+                932365629284040785,
+                932365630089359411,
+                801918323343228928
+            ]
+        },
+        {
+            "name": "┆🎥┆vidéos",
+            "id": 801911218767921153,
+            "type": "text",
+            "topic": "Salon pour envoyer des vidéos ( hors NSFW )",
+            "nsfw": false,
+            "category": "~|📸|~Media~|📸|~"
+        },
+        {
+            "name": "┆👨┆21-25ans",
+            "id": 892366147427635220,
+            "type": "text",
+            "topic": "Ici uniquement les adultes de 21 à 25 ans peuvent discuter",
+            "nsfw": false,
+            "category": "~|💬|~Discussion~|💬|~"
+        },
+        {
+            "name": "✧･ﾟ┆trainings",
+            "id": 1131013333865205842,
+            "type": "text",
+            "topic": null,
+            "nsfw": true,
+            "category": "~|👑|~Staff~|👑|~"
+        },
+        {
+            "name": "┆📣┆annonces",
+            "id": 801892269627670538,
+            "type": "text",
+            "topic": "Pour les annonces importantes vis-à-vis nouveautés sur le serveur ça se passe ici",
+            "nsfw": false,
+            "category": "~|🎉|~Vie du serveur~|🎉|~"
+        },
+        {
+            "name": "┆👩┆que-les-filles",
+            "id": 866975437929185360,
+            "type": "text",
+            "topic": "Ici uniquement les filles peuvent discuter",
+            "nsfw": false,
+            "category": "~|💬|~Discussion~|💬|~"
+        },
+        {
+            "name": "┆📈┆niveau",
+            "id": 801893646071758928,
+            "type": "text",
+            "topic": "Affichage des niveaux dans ce salon \nPour avoir plus de détails, on vous laisse taper la commande : \" toplevel \" dans le salon des commandes plus bas\n\n__À savoir que le niveau max est de 80__",
+            "nsfw": false,
+            "category": "~|👾|~Commandes~|👾|~"
+        },
+        {
+            "name": "✧･ﾟ🔐┆en-isolement",
+            "id": 1195371742403772466,
+            "type": "text",
+            "topic": "*~Historique des gens placés et libérés de l'isolement.*~\n\nLa sanction qui vous sera posée pour en sortir dépendra de vos erreurs, cela pourrait varier de quelques heures jusqu'à plusieurs jours.\n\n**Il est bon à savoir que vous pouvez être placé en isolement sans avoir 3 avertissements si l'on estime que vous êtes un élément perturbateur pour la communauté.**",
+            "nsfw": false,
+            "category": "~|👑|~Staff~|👑|~"
+        },
+        {
+            "name": "┆🚫┆Privé 5",
+            "id": 932365630089359411,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 5,
+            "category": "~|🔊|~Vocaux~|🔊|~"
+        },
+        {
+            "name": "✧･ﾟ🚫┆isoloir",
+            "id": 1109541413286334464,
+            "type": "text",
+            "topic": "Si vous êtes ici c'est que vous avez fait des bêtises",
+            "nsfw": false,
+            "category": "~|👑|~Staff~|👑|~"
+        },
+        {
+            "name": "┆📣┆débats",
+            "id": 918513424135229480,
+            "type": "text",
+            "topic": "Si tu veux débattre ne dérange pas les gens du salon papotage et exprime toi aussi",
+            "nsfw": false,
+            "category": "~|💬|~Discussion~|💬|~"
+        },
+        {
+            "name": "┆👀┆invitations",
+            "id": 1081328514227249172,
+            "type": "text",
+            "topic": "Pour voir les logs des invitations afin de mieux voir qui seraient associés à des éléments perturbateurs du serveur\nCe salon permet aussi de voir l'historique d'invitations des membres afin de les récompenser ( voir salons rôle à gagner )",
+            "nsfw": false,
+            "category": "~|👀|~Staff-logs~|👀|~"
+        },
+        {
+            "name": "┆🚫┆Privé 2",
+            "id": 1116486091638312960,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 2,
+            "category": "~|🔊|~Vocaux~|🔊|~"
+        },
+        {
+            "name": "┆📸┆images",
+            "id": 801911251898466396,
+            "type": "text",
+            "topic": "Salon pour envoyer des images ( hors NSFW ) \n\nSi vous tentez d'utiliser ce salon pour envoyer une photo de vous un warn vous sera distribué.",
+            "nsfw": false,
+            "category": "~|📸|~Media~|📸|~"
+        },
+        {
+            "name": "┆✍┆changement-de-pseudo",
+            "id": 918860400940945488,
+            "type": "text",
+            "topic": "Logs pour voir les changements/rajouts vis à vis des changement de pseudo des membres",
+            "nsfw": false,
+            "category": "~|👀|~Staff-logs~|👀|~"
+        },
+        {
+            "name": "✧📊┆Membres : 3160",
+            "id": 1083707343163891713,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "~|📊|~Statistiques~|📊|~"
+        },
+        {
+            "name": "┆❗┆bump",
+            "id": 801913691242233926,
+            "type": "text",
+            "topic": "Bump le serveur avec cette commande : !d bump",
+            "nsfw": false,
+            "category": "~|👾|~Commandes~|👾|~"
+        },
+        {
+            "name": "┆❤┆love",
+            "id": 862704376236474448,
+            "type": "text",
+            "topic": "Ici vous pourrez utiliser toutes les commandes avec les bots sur le thème de l'amour, de l'affection \nEn bref, si vous-voulez faire parvenir de l'affection envers quelqu'un via un bot, faites le ici",
+            "nsfw": false,
+            "category": "~|👾|~Commandes~|👾|~"
+        },
+        {
+            "name": "┆🔉┆Parlote Dresseur",
+            "id": 835432680358674432,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "~|🔊|~Vocaux~|🔊|~"
+        },
+        {
+            "name": "~|🎁|~Evenements~|🎁|~",
+            "id": 857245665448951818,
+            "type": "category",
+            "channels": [
+                894570768921411584,
+                854015204203429928,
+                857618487539269653,
+                858274597215535104,
+                935259470685167646,
+                1074665391042875442
+            ]
+        },
+        {
+            "name": "✧･ﾟ👮┆moderation",
+            "id": 1121835072832667708,
+            "type": "text",
+            "topic": "Afin que les modérateurs puissent discuter entre eux.",
+            "nsfw": false,
+            "category": "~|👑|~Staff~|👑|~"
+        },
+        {
+            "name": "┆🤖┆draftbot-say",
+            "id": 1108740245933006869,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "~|👀|~Staff-logs~|👀|~"
+        },
+        {
+            "name": "┆👋┆arrivés-et-départs",
+            "id": 918860284523859978,
+            "type": "text",
+            "topic": "Logs pour voir les nouvelles personnes qui rejoindront ou quitteront la communauté",
+            "nsfw": false,
+            "category": "~|👀|~Staff-logs~|👀|~"
+        },
+        {
+            "name": "┆📨┆modif-messages",
+            "id": 1108731637103075458,
+            "type": "text",
+            "topic": null,
+            "nsfw": false,
+            "category": "~|👀|~Staff-logs~|👀|~"
+        },
+        {
+            "name": "┆🔉┆Parlote Publique",
+            "id": 1147597714549391441,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "~|🔊|~Vocaux~|🔊|~"
+        },
+        {
+            "name": "~|👀|~Staff-logs~|👀|~",
+            "id": 918859196739510302,
+            "type": "category",
+            "channels": [
+                918860284523859978,
+                995328089322172446,
+                918860400940945488,
+                918860438492553226,
+                918860462358167592,
+                918860482511765505,
+                1121111639664623616,
+                1081328514227249172,
+                1108731637103075458,
+                1108734383646576740,
+                1108737311539212409,
+                1108740245933006869
+            ]
+        },
+        {
+            "name": "┆🧔┆26-30-ans",
+            "id": 917533912849317888,
+            "type": "text",
+            "topic": "Ici uniquement les adultes de + de 25 ans peuvent discuter",
+            "nsfw": false,
+            "category": "~|💬|~Discussion~|💬|~"
+        },
+        {
+            "name": "┆👶┆13-16ans",
+            "id": 892363423776665620,
+            "type": "text",
+            "topic": "Ici uniquement les jeunes de 13 à 16 ans peuvent discuter",
+            "nsfw": false,
+            "category": "~|💬|~Discussion~|💬|~"
+        },
+        {
+            "name": "✧･ﾟ💻┆community-manager",
+            "id": 1121894816796651655,
+            "type": "text",
+            "topic": "Afin de discuter des partenariats à faire.",
+            "nsfw": false,
+            "category": "~|👑|~Staff~|👑|~"
+        },
+        {
+            "name": "┆💢┆violence",
+            "id": 867745484890177576,
+            "type": "text",
+            "topic": "Exprime ta colère envers quelqu'un via les commandes des bots",
+            "nsfw": false,
+            "category": "~|👾|~Commandes~|👾|~"
+        },
+        {
+            "name": "✧･ﾟ🤖┆Bots : 13",
+            "id": 903655088990617620,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "~|📊|~Statistiques~|📊|~"
+        },
+        {
+            "name": "┆🚨┆règles",
+            "id": 801892288514097162,
+            "type": "text",
+            "topic": "On vous encourage à prendre 2 minutes de votre temps pour lire les règles afin de pas être étonné si vous vous faites sanctionner pour X à l'avenir",
+            "nsfw": false,
+            "category": "~|🌸|~Accueil~|🌸|~"
+        },
+        {
+            "name": "~|🌸|~Accueil~|🌸|~",
+            "id": 801909582632714290,
+            "type": "category",
+            "channels": [
+                970292826392907777,
+                801921566102913025,
+                801892288514097162,
+                903581404334542868,
+                903581038545076224,
+                903580952276656159
+            ]
+        },
+        {
+            "name": "┆🔢┆event-chiffres",
+            "id": 857618487539269653,
+            "type": "text",
+            "topic": "Les règles :\n\n---> Atteindre un résultat rond ( par exemple 100/500/1000 etc.. )\n\n- Un message par chiffre, pas deux fois à la suite, attendez qu'un autre membre donne la suite pour donner le chiffre suivant \n\n- PAS DE SPAM & PAS DE TRICHE ( Jouez le jeu c'est bien plus agréable )\n\n- Le gagnant devra épingler le message à chaque résultat rond ( 100/500/1000 etc.. ) \n\n- La personne qui tombera sur un résultat rond se verra obtenir une petite récompense \n\n( À savoir que les récompenses seront distribués par tranche de 100 donc 10, 50 ou 250 et d'autre nombre ne fonctionneront pas )\n\nRécompenses : \n\n---> Un nombre d'ARGENT similaire au nombre que vous venez de marquer dans le salon de l'event",
+            "nsfw": false,
+            "category": "~|🎁|~Evenements~|🎁|~"
+        },
+        {
+            "name": "✧･ﾟ👦┆Lycéens : 664",
+            "id": 914852077035978782,
+            "type": "voice",
+            "bitrate": 64000,
+            "user_limit": 0,
+            "category": "~|📊|~Statistiques~|📊|~"
+        },
+        {
+            "name": "┆⭐💬┆forum-création",
+            "id": 1127568182081753160,
+            "type": "forum"
+        }
+    ]
+}
